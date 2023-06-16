@@ -88,11 +88,12 @@ pip3 install -r requirements.txt
 
 #### Step 2:
 Please download the Lucene and required packages in the link below. 
+
 [PyLucene](https://lucene.apache.org/pylucene/)
 
 #### Step 3:
 Please download the pretrained Google Word2Vec model if Google's pretrained model will be 
-used in application.\
+used in application.
 
 To download pretrained Google Word2Vec model, please use the link provided below. 
 
